@@ -38,5 +38,9 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: pink;
+}
+form {
+  background-color: pink;
+  border-radius: 20%;
 }
